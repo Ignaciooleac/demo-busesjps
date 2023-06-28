@@ -1,0 +1,1 @@
+<img src="assets\svg\image 17.png">
